@@ -19,7 +19,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=svelte,html,css,vscode,github,git,azure,docker,cs,dotnet" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs, linux" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,linux" /><br>
 </div>
 
 <br/>
