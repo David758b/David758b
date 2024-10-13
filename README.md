@@ -3,8 +3,6 @@
 </h1>
 <h3 align="center">The dumbes Koala you have ever seen!</h3>
 
-
-Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=svelte,,html,css,vscode,github,git,azure,docker,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=svelte,html,css,vscode,github,git,azure,docker,cs,dotnet" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs, linux" /><br>
 </div>
 
