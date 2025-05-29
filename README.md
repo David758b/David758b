@@ -12,30 +12,7 @@ If you're ready for a chill collab or just want to share some fresh coding leave
 
 </br></br>
 
-<div align=left>
 
-🔭 **I’m currently working on** ...
-Finding the most efficient algorithm to eat eucalyptus faster 🍃.
-
-🌱 **I’m currently learning** ...
-How to optimize my nap schedule...😴
-
-👯 **I’m looking to collaborate on** ...
-Anything fun and challenging—just make sure there’s snack breaks!
-
-🤔 **I’m looking for help with** ...
-Staying awake long enough to fix my bugs ⏰.
-
-💬 **Ask me about** ...
-How koalas can balance eating, sleeping, and coding. Or if you need tips on debugging your code while half asleep.
-
-😄 **Pronouns:**
- Koala
-
-⚡ **Fun fact:**
-I once tried to write code while asleep. The results? Surprisingly, it was just as good as when I’m awake! 💤🧑‍💻
-
-</br></br> 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
