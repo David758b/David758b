@@ -3,11 +3,11 @@
 </h1>
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=svelte,html,css,vscode,github,git,azure,docker,cs,dotnet" />
-        <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,linux" /><br>
+        <img src="https://skillicons.dev/icons?i=svelte,git,gitlab,kubernetes,docker,grafana,c,vim,cs,dotnet" />
+        <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,lua,linux,neovim" /><br>
     </div>
 </div>
 
